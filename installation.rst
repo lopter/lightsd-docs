@@ -113,7 +113,7 @@ Build the package:
 
 ::
 
-   debuild
+   debuild -uc -us
 
 Install the package:
 
