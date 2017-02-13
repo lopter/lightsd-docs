@@ -1,6 +1,10 @@
 The lights daemon documentation
 ===============================
 
+.. warning::
+
+   The docs have moved to: https://docs.lightsd.io/.
+
 Welcome! This is the documentation for lightsd_: a small program that runs in
 the background, discovers smart bulbs [#bulbs]_ on your local network and let
 you control them easily.
